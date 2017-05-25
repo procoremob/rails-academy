@@ -7,6 +7,7 @@ end
 
 
 gem 'rails',        '5.0.2'
+gem 'bootstrap-sass'
 gem 'puma'
 gem 'sass-rails'
 gem 'uglifier'

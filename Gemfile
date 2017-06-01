@@ -7,6 +7,8 @@ end
 
 
 gem 'rails',        '5.0.2'
+
+gem 'bcrypt'
 gem 'bootstrap-sass'
 gem 'puma'
 gem 'sass-rails'
